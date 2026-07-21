@@ -55,10 +55,6 @@ Nodes are physical or virtual machines that can run pods as part of a Kubernetes
 
 Pods—pods are the smallest unit provided by Kubernetes to manage containerized workloads.  A pod typically includes several containers, which together form a functional unit or microservice.
 
-======================================================================================
-What is Minikube?
-Minikube is a tool that sets up a Kubernetes environment on a local PC or laptop
-minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. We proudly focus on helping application developers and new Kubernetes users.
 
 
 What is Kubectl?
