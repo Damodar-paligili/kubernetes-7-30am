@@ -61,16 +61,6 @@ Minikube is a tool that sets up a Kubernetes environment on a local PC or laptop
 minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. We proudly focus on helping application developers and new Kubernetes users.
 
 
----Installation Process Minikube ---
-
-curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
-
-sudo install minikube-linux-amd64 /usr/local/bin/minikube
-
-to start minikube---minikube start 
-to check status ----minikube status 
-to update       --- minikube update-context
-
 What is Kubectl?
 
 kubectl is the Kubernetes-specific command line tool that lets you communicate and control Kubernetes clusters. Whether you're creating, managing, or deleting resources on your Kubernetes platform, kubectl is an essential tool.
