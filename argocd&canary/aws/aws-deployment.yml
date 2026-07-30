@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 
 metadata:
-  name: canary-demo-v1-deployment
+  name: canary-demo-v2-deployment
   labels:
     app: canary-demo
 spec:
